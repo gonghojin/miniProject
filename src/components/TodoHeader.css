@@ -1,0 +1,7 @@
+.TodoHeader {
+    /* 레이아웃 */
+    display: flex;
+}
+.TodoContentsInput {
+    color: burlywood;
+}
